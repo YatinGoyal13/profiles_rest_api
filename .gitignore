@@ -100,3 +100,11 @@ ENV/
 
 *.sqlite3
 .vagrant
+
+# intellij and jetbrains management files
+.idea
+
+# OSX
+.DS_Store
+*.DS_Store
+**/.DS_Store
